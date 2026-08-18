@@ -1,6 +1,6 @@
 # Hi, I'm Mahesh Khot 👋
 
-### Full Stack Developer | Java | Python | Spring Boot | FastAPI | React.js |JavaScript | REST APIs | DSA
+### Full Stack Developer | Java | Python | Spring Boot | FastAPI | React.js | JavaScript | REST APIs | DSA
 
 I'm a Full Stack Developer interested in building web applications from frontend to backend. I enjoy working on real-world projects, learning new technologies and improving my problem-solving skills.
 
