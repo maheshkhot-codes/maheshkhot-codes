@@ -1,4 +1,4 @@
-# Hi, I'm Mahesh Khot 👋
+# Hi, I'm Mahesh Khot 
 
 ### Full Stack Developer | Java | Python | Spring Boot | FastAPI | JavaScript | REST APIs | DSA
 
